@@ -1,0 +1,2 @@
+# skillfactory.sk.task
+python
